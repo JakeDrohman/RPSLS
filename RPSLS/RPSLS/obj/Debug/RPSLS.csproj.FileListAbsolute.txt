@@ -1,0 +1,6 @@
+c:\users\jkdro\onedrive\documents\visual studio 2015\Projects\RPSLS\RPSLS\bin\Debug\RPSLS.exe.config
+C:\Users\jkdro\OneDrive\Documents\Visual Studio 2015\Projects\RPSLS\RPSLS\obj\Debug\RPSLS.csprojResolveAssemblyReference.cache
+C:\Users\jkdro\OneDrive\Documents\Visual Studio 2015\Projects\RPSLS\RPSLS\bin\Debug\RPSLS.exe
+C:\Users\jkdro\OneDrive\Documents\Visual Studio 2015\Projects\RPSLS\RPSLS\bin\Debug\RPSLS.pdb
+C:\Users\jkdro\OneDrive\Documents\Visual Studio 2015\Projects\RPSLS\RPSLS\obj\Debug\RPSLS.exe
+C:\Users\jkdro\OneDrive\Documents\Visual Studio 2015\Projects\RPSLS\RPSLS\obj\Debug\RPSLS.pdb
